@@ -1,0 +1,289 @@
+Array
+(
+    [startDate] => 2019-12-03
+    [endDate] => 2019-12-06
+    [timeUnit] => date
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [title] => 패션의류
+                    [category] => Array
+                        (
+                            [0] => 50000000
+                        )
+
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [period] => 2019-12-03
+                                    [ratio] => 100
+                                )
+
+                            [1] => Array
+                                (
+                                    [period] => 2019-12-04
+                                    [ratio] => 94.39375
+                                )
+
+                            [2] => Array
+                                (
+                                    [period] => 2019-12-05
+                                    [ratio] => 93.93956
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [title] => 패션의류 - 니트/스웨어
+                    [category] => Array
+                        (
+                            [0] => 50000805
+                        )
+
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [period] => 2019-12-03
+                                    [ratio] => 4.69654
+                                )
+
+                            [1] => Array
+                                (
+                                    [period] => 2019-12-04
+                                    [ratio] => 4.56284
+                                )
+
+                            [2] => Array
+                                (
+                                    [period] => 2019-12-05
+                                    [ratio] => 4.44615
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [title] => 생활/건강
+                    [category] => Array
+                        (
+                            [0] => 50000008
+                        )
+
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [period] => 2019-12-03
+                                    [ratio] => 56.4883
+                                )
+
+                            [1] => Array
+                                (
+                                    [period] => 2019-12-04
+                                    [ratio] => 54.75365
+                                )
+
+                            [2] => Array
+                                (
+                                    [period] => 2019-12-05
+                                    [ratio] => 53.57126
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+
+Array
+(
+    [startDate] => 2019-11-29
+    [endDate] => 2019-12-06
+    [timeUnit] => date
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [title] => 삼성
+                    [keywords] => Array
+                        (
+                            [0] => 삼성
+                            [1] => samsung
+                        )
+
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [period] => 2019-11-29
+                                    [ratio] => 22.9725
+                                )
+
+                            [1] => Array
+                                (
+                                    [period] => 2019-11-30
+                                    [ratio] => 25.88672
+                                )
+
+                            [2] => Array
+                                (
+                                    [period] => 2019-12-01
+                                    [ratio] => 28.08389
+                                )
+
+                            [3] => Array
+                                (
+                                    [period] => 2019-12-02
+                                    [ratio] => 28.49035
+                                )
+
+                            [4] => Array
+                                (
+                                    [period] => 2019-12-03
+                                    [ratio] => 27.90751
+                                )
+
+                            [5] => Array
+                                (
+                                    [period] => 2019-12-04
+                                    [ratio] => 23.7279
+                                )
+
+                            [6] => Array
+                                (
+                                    [period] => 2019-12-05
+                                    [ratio] => 26.13597
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [title] => 엘지
+                    [keywords] => Array
+                        (
+                            [0] => 엘지
+                            [1] => LG
+                        )
+
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [period] => 2019-11-29
+                                    [ratio] => 25.29621
+                                )
+
+                            [1] => Array
+                                (
+                                    [period] => 2019-11-30
+                                    [ratio] => 15.09643
+                                )
+
+                            [2] => Array
+                                (
+                                    [period] => 2019-12-01
+                                    [ratio] => 15.50289
+                                )
+
+                            [3] => Array
+                                (
+                                    [period] => 2019-12-02
+                                    [ratio] => 100
+                                )
+
+                            [4] => Array
+                                (
+                                    [period] => 2019-12-03
+                                    [ratio] => 21.90651
+                                )
+
+                            [5] => Array
+                                (
+                                    [period] => 2019-12-04
+                                    [ratio] => 18.83891
+                                )
+
+                            [6] => Array
+                                (
+                                    [period] => 2019-12-05
+                                    [ratio] => 17.67322
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [title] => 샤오미
+                    [keywords] => Array
+                        (
+                            [0] => 샤오미
+                            [1] => Xiaomi
+                        )
+
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [period] => 2019-11-29
+                                    [ratio] => 13.2482
+                                )
+
+                            [1] => Array
+                                (
+                                    [period] => 2019-11-30
+                                    [ratio] => 11.32328
+                                )
+
+                            [2] => Array
+                                (
+                                    [period] => 2019-12-01
+                                    [ratio] => 12.35093
+                                )
+
+                            [3] => Array
+                                (
+                                    [period] => 2019-12-02
+                                    [ratio] => 13.24437
+                                )
+
+                            [4] => Array
+                                (
+                                    [period] => 2019-12-03
+                                    [ratio] => 13.97676
+                                )
+
+                            [5] => Array
+                                (
+                                    [period] => 2019-12-04
+                                    [ratio] => 12.76506
+                                )
+
+                            [6] => Array
+                                (
+                                    [period] => 2019-12-05
+                                    [ratio] => 12.8034
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
